@@ -1,0 +1,77 @@
+.name {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style:normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.sub-headings {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style:normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.description {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+body {
+    border: 1px solid lightslategray;
+    background-color: rgb(234, 224, 224);
+}
+#objective {
+    background-color: rgb(212, 65, 87);
+}
+#skills {
+    background-color: lightcoral;
+}
+#projects {
+    background-color:  lightsalmon;
+}
+#education{
+    background-color:  lightseagreen;
+}
+.image img{
+     float: left;
+     margin: 10px 20px 10px 10px;
+     border-radius: 20%;
+}
+
+.profile img {
+  border-radius: 50%;
+  float: left;
+  margin: 10px 20px 20px 20px;
+  border: 2px solid #e0dada;
+  
+}
+
+h1,h3{
+    text-align: center;
+    background-color;
+}
+div {
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.profile img:hover{
+      transform: scale(1.2);
+      cursor: pointer;
+}
+
+
+
+
+
+
